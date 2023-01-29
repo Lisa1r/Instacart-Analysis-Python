@@ -3,7 +3,7 @@ This is a Python data analysis project carried out within the CareerFoundry Data
 ## Objective
 Instacart is an American grocery delivery company that operates through an app. They want to uncover more information about their sales patterns. This project covers an initial data/exploratory analysis in order to derive insights and suggest strategies for better segmentation.
 ## Data
-The [data set used](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) was provided publicly by Instacart in 2017.
+The [data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) was provided publicly by Instacart in 2017.
 
 The [data dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b) is also available publicly online.
 ## Results
